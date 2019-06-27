@@ -1,0 +1,6 @@
+# -
+#   speaker_id: Marco-Cedaro
+#   title: Componenti, pattern e altre robette non semplicissime da gestire
+#   keynote: true
+#   extract: >
+#    Lavorare in un mondo di componenti è complesso. Tool, framework e design pattern l'hanno reso più accessibile, ma c'è ancora un passaggio che non è gestibile tramite codice: quand'è che un componente diventa un componente? Che valore semantico ha un pattern e come se ne riusa uno in uno scenario leggermente diverso, senza invalidare il concetto stesso di "pattern"? <br>Un talk che non si propone come soluzione, ma come guida per porre l'attenzione su un problema e capire cosa cerchiamo di fare quando ci sembra di martellare formine triangolari o quadrate in buchi evitendemente rotondi.

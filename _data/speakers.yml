@@ -1,0 +1,13 @@
+# place images in:
+# img/conf-name/speaker/file.jpg
+call_for_paper_url: https://goo.gl/forms/jOzpXYpAZCsE4oH82
+call_for_paper: true
+show_speakers: false
+list:
+ # -
+ #   id: Marco-Cedaro
+ #   description:
+ #   image: marco-cedaro.jpg
+ #   first_name: Marco
+ #   last_name: 	Cedaro
+ #   twitter: cedmax

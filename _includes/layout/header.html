@@ -1,0 +1,67 @@
+<header class="header">
+  <div class="limit">
+    <div class="header__row">
+      <a href="{{ site.baseurl }}/" class="header__logo">
+        <img class="header__logo-image" src="{{ site.baseurl }}/img/themes/{{ site.data.conference.slug }}/{{ site.data.conference.slug }}-logo.svg">
+      </a>
+      <!--h1 class="header__conf-name">
+        {{ site.data.conference.name }} {{ site.data.conference.year }}
+      </h1-->
+      <nav class="header__menu">
+        <a href="#" id="open-menu" class="button button--menu">
+          <i class="icon-minus"></i>
+          <i class="icon-minus"></i>
+          <i class="icon-minus"></i>
+        </a>
+
+        <div class="header__menu-desktop">
+          {% if site.data.conference.show_talks %}
+          <a href="{{ site.baseurl }}/talks.html" class="button">
+            Talk
+          </a>
+          {% endif %}
+
+          {% if site.data.conference.show_schedule %}
+          <a href="{{ site.baseurl }}/schedule.html" class="button">
+            Programma
+          </a>
+          {% endif %}
+
+
+          {% if site.data.conference.show_workshop %}
+          <a href="{{ site.baseurl }}/workshop.html" class="button">
+            Workshop
+          </a>
+          {% endif %}
+
+          {% if site.data.speakers.call_for_paper %}
+            <a href="{{ site.data.speakers.call_for_paper_url }}" target="_blank"  class="button button--register" alt="Call for Paper">
+              CFP
+            </a>
+          {% endif %}
+
+          <a href="{{ site.baseurl }}/#venue" class="button">
+            Dove
+          </a>
+
+          {% if site.data.sponsors.call_for_sponsor %}
+            <a href="{{ site.baseurl }}/sponsor.html" class="button button--no-tablet-small">
+              Sponsor
+            </a>
+          {% endif %}
+
+          {% if site.data.tickets.sold_out %}
+            <div class="button button--sold-out">
+              sold out
+            </div>
+          {% else %}
+            <a href="{{ site.data.tickets.url }}" target="_blank" class="button button--register">
+              Registrati
+            </a>
+          {% endif %}
+
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>

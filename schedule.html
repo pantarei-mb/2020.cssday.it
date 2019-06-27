@@ -1,0 +1,135 @@
+---
+title: Schedule
+---
+
+<div class="limit limit--top-margin">
+
+  {% include schedule/intro.html date='13 Marzo' %}
+
+  <div class="schedule" data-dates="3-13">
+    <table class="schedule__table">
+      <thead>
+        {% include schedule/header.html tracks='1' %}
+      </thead>
+      <tbody>
+        {% include schedule/event.html time='9.15-9.45' title='Check-in' fill='true' %}
+        {% include schedule/event.html time='9.45-10.00' title='Presentazione GrUSP' fill='true' %}
+
+        {% include schedule/talk.html time='10.00-10.30' title='Componenti, pattern e altre robette non semplicissime da gestire'   keynote='true' fill='true' %}
+        {% include schedule/talk.html time='10.30-11.00' title='Un Approccio Frameworkless per Sviluppare la tua Single Page Application'  fill='true' %}
+
+        {% include schedule/pause.html time='11.00-11.30' title='Short break' icon="coffee" fill='true' %}
+
+        <tr>
+          {% include schedule/talk.html title='I trucchi di Houdini: la magia nel futuro del CSS' time='11.30-12.00' fill='true' %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title="Variable Fonts: il futuro della tipografia è già cominciato" time='12.00-12.30' fill='true' %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title='Breaking Blank' time='12.30-13.00' fill='true' %}
+        </tr>
+
+        {% include schedule/pause.html time='13.00-14.15' title='Lunch' icon="food" fill='true' offerto='true' %}
+
+        <tr>
+          {% include schedule/talk.html title='Service worker - Out of the shadows' time='14.15-14.45' fill='true'  %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title="Grid in production: a true story" time='14.45-15.15' fill='true'  %}
+        </tr>
+
+        {% include schedule/pause.html time='15.15-15.45' title='Coffee break' icon="coffee" fill='true' %}
+
+        <tr>
+          {% include schedule/talk.html title='La fine delle media query' time='15.45-16.15' fill='true'  %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title='Il workflow ai tempi del design system' time='16.15-16.45' fill='true' %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title='Take care of your pixel' time='16.45-17.15' fill='true' %}
+        </tr>
+
+        {% include schedule/pause.html time='17.15-17.20' title='Saluti e ringraziamenti' icon="bar" fill='true' %}
+
+      </tbody>
+    </table>
+  </div>
+
+  <div class="schedule schedule--mobile" data-dates="3-13">
+    <table class="schedule__table">
+      <thead>
+        {% include schedule/header.html track='1' %}
+      </thead>
+      <tbody>
+        {% include schedule/event.html time='9.15-9.45' title='Check-in' fill='true' %}
+        {% include schedule/event.html time='9.45-10.00' title='Presentazione GrUSP' fill='true' %}
+
+        {% include schedule/talk.html time='10.00-10.30' title='Componenti, pattern e altre robette non semplicissime da gestire' keynote='true' fill='true' %}
+        {% include schedule/talk.html time='10.30-11.00' title='Un Approccio Frameworkless per Sviluppare la tua Single Page Application'  fill='true' %}
+
+        {% include schedule/pause.html time='11.00-11.30' title='Short break' icon="coffee" fill='true' %}
+
+        <tr>
+          {% include schedule/talk.html title='I trucchi di Houdini: la magia nel futuro del CSS' time='11.30-12.00' fill='true' %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title="Variable Fonts: il futuro della tipografia è già cominciato" time='12.00-12.30' fill='true' %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title='Breaking Blank' time='12.30-13.00' fill='true' %}
+        </tr>
+
+        {% include schedule/pause.html time='13.00-14.15' title='Lunch' icon="food" fill='true' offerto='true' %}
+
+        <tr>
+          {% include schedule/talk.html title='Service worker - Out of the shadows' time='14.15-14.45' fill='true'  %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title="Grid in production: a true story" time='14.45-15.15' fill='true'  %}
+        </tr>
+
+        {% include schedule/pause.html time='15.15-15.45' title='Coffee break' icon="coffee" fill='true' %}
+
+        <tr>
+          {% include schedule/talk.html title='La fine delle media query' time='15.45-16.15' fill='true'  %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title='Il workflow ai tempi del design system' time='16.15-16.45' fill='true' %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title='Take care of your pixel' time='16.45-17.15' fill='true' %}
+        </tr>
+
+        {% include schedule/pause.html time='17.15-17.20' title='Saluti e ringraziamenti' icon="bar" fill='true' %}
+
+      </tbody>
+    </table>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+{% include index/newsletter.html %}
+{% include index/sponsors.html %}

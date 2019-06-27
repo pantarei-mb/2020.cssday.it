@@ -1,0 +1,23 @@
+@include block ('workshop-teacher') {
+  align-items: center;
+  background-color: $color-workshop-teacher;
+  display: flex;
+  padding: s(1);
+  white-space: nowrap;
+
+  @include element ('avatar') {
+    $size: 86px;
+    height: auto;
+    margin-right: s(1);
+    width: $size;
+  }
+
+  @include element ('name') {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  @include element ('social') {
+    margin-top: s(0.5);
+  }
+}

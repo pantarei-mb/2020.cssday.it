@@ -1,0 +1,7 @@
+@include block ('link') {
+  color: $color-link;
+
+  &:hover {
+    color: darken($color-link, 5%);
+  }
+}
