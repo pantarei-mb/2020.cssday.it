@@ -49,6 +49,11 @@
           </div>
           <div class="footer__row-column">
             <div class="footer__nav">
+              {% if site.data.conference.scholarship_available %}
+                <div class="footer__nav-item">
+                  <a href="{{ site.baseurl }}/scholarships.html" class="button button--footer button--left">Scholarships</a>
+                </div>
+              {% endif %}
               <div class="footer__nav-item">
                 <a href="{{ site.baseurl }}/#newsletter" class="button button--footer button--left">Newsletter</a>
               </div>
