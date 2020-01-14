@@ -1,6 +1,33 @@
-# -
-#   speaker_id: Marco-Cedaro
-#   title: Componenti, pattern e altre robette non semplicissime da gestire
-#   keynote: true
-#   extract: >
-#    Lavorare in un mondo di componenti è complesso. Tool, framework e design pattern l'hanno reso più accessibile, ma c'è ancora un passaggio che non è gestibile tramite codice: quand'è che un componente diventa un componente? Che valore semantico ha un pattern e come se ne riusa uno in uno scenario leggermente diverso, senza invalidare il concetto stesso di "pattern"? <br>Un talk che non si propone come soluzione, ma come guida per porre l'attenzione su un problema e capire cosa cerchiamo di fare quando ci sembra di martellare formine triangolari o quadrate in buchi evitendemente rotondi.
+-
+   speaker_id: antonio-dellava
+   title: Report Manager e Stampa, un caso reale
+   keynote: false
+   extract: >
+    "Nella mia vita professionale mi sono più volte imbattuto nella situazione in cui gli utenti di un'applicazione web, nonostante tutte le funzionalità offerte dal software, avessero comunque bisogno di creare un report pdf con il proprio lavoro e di stamparlo su carta.
+    Il talk racconta di come ho affrontato questa sfida passando dal naturale sconforto di dover far fronte a un contesto che sentivo come "vecchio", fino ad arrivare a soluzioni efficaci ed innovative che hanno risposto al bisogno degli utenti. 
+    In particolare illustrerò un caso studio di un vero e proprio report manager dove l'utente è in grado di personalizzare i propri template in funzione delle proprie esigenze con tecnologie e soluzioni replicabili da tutti."
+-
+   speaker_id: davide-dipumpo
+   title: Se Miyazaki fosse stato un developer
+   keynote: false
+   extract: >
+    "Miyazaki ha inventato un modo nuovo di fare animazione, non fatta solo di tecnicismi ma anche di sensatezza, emozioni.
+    Quanto è importante per il web la parte emozionale? Quale è il futuro delle animazioni? Quanto difficile è mitigare la creatività del designer con l'effettiva implementazione?
+    Con questo talk viaggeremo verso le terre di Miyazaki e capiremo meglio questi temi"
+-
+   speaker_id: matteo-guidotto
+   title: Se Miyazaki fosse stato un developer
+   keynote: false
+   extract: >
+    "Miyazaki ha inventato un modo nuovo di fare animazione, non fatta solo di tecnicismi ma anche di sensatezza, emozioni.
+    Quanto è importante per il web la parte emozionale? Quale è il futuro delle animazioni? Quanto difficile è mitigare la creatività del designer con l'effettiva implementazione?
+    Con questo talk viaggeremo verso le terre di Miyazaki e capiremo meglio questi temi"
+-
+   speaker_id: giacomo-zinetti
+   title: Web Components: illusione o realtà?
+   keynote: false
+   extract: >
+    "Il mondo del frontend si è indirizzato a folle velocità verso lo sviluppo di componenti atomici grazie allo standard dei Web Component e librerie/framework come React, Angular, Vue, ecc. 
+    Praticamente ora possiamo, analogamente ai nostri colleghi del backend, scegliere per la nostra UI se adottare un'architettura monolitica o a microservizi. 
+    Ma in tutto questo non staremo lasciandoci alle spalle qualcosa di buono? 
+    In questa mezz'oretta proveremo ad analizzare la storia che ci ha portato ad oggi, cercando di valutare se possiamo recuperare qualcosa da mettere nel nostro bagaglio per arricchire e migliorare la nostra vita da sviluppatori frontend oggi e, magari, anche domani."    
