@@ -24,7 +24,7 @@
     Con questo talk viaggeremo verso le terre di Miyazaki e capiremo meglio questi temi
 -
    speaker_id: giacomo-zinetti
-   title: Web Components: illusione o realtà?
+   title: "Web Components: illusione o realtà?"
    keynote: false
    extract: >
     Il mondo del frontend si è indirizzato a folle velocità verso lo sviluppo di componenti atomici grazie allo standard dei Web Component e librerie/framework come React, Angular, Vue, ecc. 
