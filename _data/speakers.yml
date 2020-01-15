@@ -4,10 +4,31 @@ call_for_paper_url: https://goo.gl/forms/jOzpXYpAZCsE4oH82
 call_for_paper: true
 show_speakers: false
 list:
- # -
- #   id: Marco-Cedaro
- #   description:
- #   image: marco-cedaro.jpg
- #   first_name: Marco
- #   last_name: 	Cedaro
- #   twitter: cedmax
+  -
+    id: antonio-dellava
+    description: Frontend developer presso Flowing. Ha un background da interaction designer, appassionato dei principi agili, è anche uno degli organizzatori del MUG (marca user group). Nel tempo libero lo puoi sempre trovare in sella ad una bici.
+    image: antonio-dellava.jpg
+    first_name: Antonio
+    last_name: 	Dell'Ava
+    twitter: creativecaos
+  -
+    id: davide-dipumpo
+    description: 
+    image: davide-dipumpo.jpg
+    first_name: Davide
+    last_name: 	Di Pumpo
+    twitter: MakhBeth
+  -
+    id: matteo-guidotto
+    description: Ho divorziato dal frontend development ma continuo segretamente ad amarlo. Oggi sono PM e PO in Trueblue cercando di non dimenticare le radici. Mi occupo principalmente dell'evoluzione del nostro prodotto CRM Retail traducendo facendo sposare le tematiche di business a quelle tecniche e viceversa.
+    image: matteo-guidotto.jpg
+    first_name: Matteo
+    last_name: 	Guidotto
+    twitter: j8matteo
+  -
+    id: giacomo-zinetti
+    description: Hello World! Piacere di conoscerti, sono Giko, un frontendista dalla provincia di Como appassionato di frontend in ogni suo aspetto, adoro le performance, mi piace comporre CSS, strutturare JavaScript e rendere l'HTML accessibile. Sono anche cofondatore degli user group Milano Frontend e Como CaFE.
+    image: giacomo-zinetti.jpg
+    first_name: Giacomo
+    last_name: 	Zinetti
+    twitter: gcmznt  
