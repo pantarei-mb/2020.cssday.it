@@ -31,3 +31,29 @@
     Praticamente ora possiamo, analogamente ai nostri colleghi del backend, scegliere per la nostra UI se adottare un'architettura monolitica o a microservizi. 
     Ma in tutto questo non staremo lasciandoci alle spalle qualcosa di buono? 
     In questa mezz'oretta proveremo ad analizzare la storia che ci ha portato ad oggi, cercando di valutare se possiamo recuperare qualcosa da mettere nel nostro bagaglio per arricchire e migliorare la nostra vita da sviluppatori frontend oggi e, magari, anche domani.
+-
+   speaker_id: giulia-laco
+   title: "Font variabili? Sì grazie."
+   keynote: false
+   extract: >
+      A tre anni e mezzo dalla loro concezione, i font variabili sembrano essere un formato utilizzabile e proficuo per il web design.
+      Excursus su quello che un font variabile può fare per la tipografia del tuo sito web, per una ulteriore progettazione responsive, per la velocità di caricamento, per le animazioni. E uno sguardo su come sta evolvendo il mercato.
+-
+   speaker_id: andrea-decarolis
+   title: "Make CSS great again"
+   keynote: false
+   extract: >
+      Ah, bei tempi andati quelli in cui c'erano novità in termini di naming convention, di preprocessori, di - udite udite - responsive web design. 
+      Eravamo agli albori del CSS, dovevamo capire come gestirlo. Anzi: come gestirlo per bene. 
+      Davanti a noi il futuro appariva roseo e pieno d'aspettative come solo a Tim Berners-Lee era capitato e poi... l'idillio si è spezzato. 
+      È arrivata l'esplosione dei framework JavaScript, tutto è diventato meno accattivante, il CSS si scrive dentro il JavaScript, tutto è un npm... insomma abbiamo perso quel guizzo originario che ci rendeva speciali.
+      Oggi c'è ancora spazio per divertirsi? C’è ancora un po’ di magia e stupore nei nostri amati CSS?
+      In questo talk proveremo a passare in rassegna le pratiche migliori in tema di CSS esplorando nuove features che, sono certo, faranno ancora una volta ardere la fiamma del CSS-aro che è in tutti noi.
+-
+   speaker_id: antonio-matera
+   title: "Designers e developers: No more tears."
+   keynote: false
+   extract: >
+      I Design Systems sono un argomento caldo nel mondo del design, ma non andremo molto lontani se i designer non sono allineati con i dev, perché gli sviluppatori sono gli ultimi a lasciare le impronte su un sito web o su un qualsiasi altro prodotto digitale prima che questo sia rilasciato.
+      È tempo di migliorare la consapevolezza sul ruolo del designer in modo da guardare oltre gli schemi.
+      In questo intervento analizzeremo alcuni punti chiave del processo di lavoro e alcuni suggerimenti su cosa possiamo fare meglio per colmare il gap tra design e sviluppo.

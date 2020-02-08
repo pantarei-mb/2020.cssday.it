@@ -32,3 +32,26 @@ list:
     first_name: Giacomo
     last_name: 	Zinetti
     twitter: gcmznt  
+  -
+    id: giulia-laco
+    description: 
+    image: giulia-laco.jpg
+    first_name: Giulia
+    last_name: 	Laco
+    twitter: webmatter_it  
+  -
+    id: andrea-decarolis
+    description: >
+      "Sono uno dei soci di Modo, un'agenzia specializzata in front end e ci piace dare il nostro supporto alle community attive nel settore. Aiuto nell'organizzazione del Bologna front end, un meetup sul front end dove puoi entrare solo se fai fatica a pronunciare la Z."
+    image: andrea-decarolis.jpg
+    first_name: Andrea	
+    last_name: 	De Carolis
+    twitter: decarola
+  -
+    id: antonio-matera
+    description: > 
+      Sono frontend developer in Tangible e mi propongo come speaker perché penso che il tema di cui vorrei parlare, su cui sto studiando e appassionando sia fondamentale nel lavoro di tutti giorni come designer e sviluppatori. Abbiamo entrambi grandi capacità ma spesso non si innesca la scintilla che abilita la cosa più importante tra le due discipline: la comunicazione.
+    image: antonio-matera.jpg
+    first_name: Antonio	
+    last_name: 	Matera
+    twitter: antonio_matera_    
