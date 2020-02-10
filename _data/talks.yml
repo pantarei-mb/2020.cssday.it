@@ -1,59 +1,89 @@
 -
+   speaker_id: andrea-decarolis
+   title: "Make CSS great again"
+   keynote: false
+   extract: >
+      "Ah, bei tempi andati quelli in cui c'erano novità in termini di naming convention, di preprocessori, di - udite udite - responsive web design. 
+      Eravamo agli albori del CSS, dovevamo capire come gestirlo. Anzi: come gestirlo per bene. 
+      Davanti a noi il futuro appariva roseo e pieno d'aspettative come solo a Tim Berners-Lee era capitato e poi... l'idillio si è spezzato. 
+      È arrivata l'esplosione dei framework JavaScript, tutto è diventato meno accattivante, il CSS si scrive dentro il JavaScript, tutto è un npm... insomma abbiamo perso quel guizzo originario che ci rendeva speciali.
+      Oggi c'è ancora spazio per divertirsi? C’è ancora un po’ di magia e stupore nei nostri amati CSS?
+      In questo talk proveremo a passare in rassegna le pratiche migliori in tema di CSS esplorando nuove features che, sono certo, faranno ancora una volta ardere la fiamma del CSS-aro che è in tutti noi."
+
+-
    speaker_id: antonio-dellava
    title: Report Manager e Stampa, un caso reale
    keynote: false
    extract: >
-    Nella mia vita professionale mi sono più volte imbattuto nella situazione in cui gli utenti di un'applicazione web, nonostante tutte le funzionalità offerte dal software, avessero comunque bisogno di creare un report pdf con il proprio lavoro e di stamparlo su carta.
+    "Nella mia vita professionale mi sono più volte imbattuto nella situazione in cui gli utenti di un'applicazione web, nonostante tutte le funzionalità offerte dal software, avessero comunque bisogno di creare un report pdf con il proprio lavoro e di stamparlo su carta.
     Il talk racconta di come ho affrontato questa sfida passando dal naturale sconforto di dover far fronte a un contesto che sentivo come "vecchio", fino ad arrivare a soluzioni efficaci ed innovative che hanno risposto al bisogno degli utenti. 
-    In particolare illustrerò un caso studio di un vero e proprio report manager dove l'utente è in grado di personalizzare i propri template in funzione delle proprie esigenze con tecnologie e soluzioni replicabili da tutti.
+    In particolare illustrerò un caso studio di un vero e proprio report manager dove l'utente è in grado di personalizzare i propri template in funzione delle proprie esigenze con tecnologie e soluzioni replicabili da tutti."
+
+-
+   speaker_id: andrea-gadaldi
+   title: Il dottor Strangepixel - Ovvero: come ho imparato a non preoccuparmi e ad amare gli SVG
+   keynote: false
+   extract: >
+    "Una piccola guida pratica agli SVG tra preparazione e ottimizzazione, opzioni di implementazione, animazione, manipolazione CSS, JS e spriting"
+
 -
    speaker_id: davide-dipumpo
    title: Se Miyazaki fosse stato un developer
    keynote: false
    extract: >
-    Miyazaki ha inventato un modo nuovo di fare animazione, non fatta solo di tecnicismi ma anche di sensatezza, emozioni.
+    "Miyazaki ha inventato un modo nuovo di fare animazione, non fatta solo di tecnicismi ma anche di sensatezza, emozioni.
     Quanto è importante per il web la parte emozionale? Quale è il futuro delle animazioni? Quanto difficile è mitigare la creatività del designer con l'effettiva implementazione?
-    Con questo talk viaggeremo verso le terre di Miyazaki e capiremo meglio questi temi
+    Con questo talk viaggeremo verso le terre di Miyazaki e capiremo meglio questi temi"
+
 -
    speaker_id: matteo-guidotto
    title: Se Miyazaki fosse stato un developer
    keynote: false
    extract: >
-    Miyazaki ha inventato un modo nuovo di fare animazione, non fatta solo di tecnicismi ma anche di sensatezza, emozioni.
+    "Miyazaki ha inventato un modo nuovo di fare animazione, non fatta solo di tecnicismi ma anche di sensatezza, emozioni.
     Quanto è importante per il web la parte emozionale? Quale è il futuro delle animazioni? Quanto difficile è mitigare la creatività del designer con l'effettiva implementazione?
-    Con questo talk viaggeremo verso le terre di Miyazaki e capiremo meglio questi temi
--
-   speaker_id: giacomo-zinetti
-   title: "Web Components: illusione o realtà?"
-   keynote: false
-   extract: >
-    Il mondo del frontend si è indirizzato a folle velocità verso lo sviluppo di componenti atomici grazie allo standard dei Web Component e librerie/framework come React, Angular, Vue, ecc. 
-    Praticamente ora possiamo, analogamente ai nostri colleghi del backend, scegliere per la nostra UI se adottare un'architettura monolitica o a microservizi. 
-    Ma in tutto questo non staremo lasciandoci alle spalle qualcosa di buono? 
-    In questa mezz'oretta proveremo ad analizzare la storia che ci ha portato ad oggi, cercando di valutare se possiamo recuperare qualcosa da mettere nel nostro bagaglio per arricchire e migliorare la nostra vita da sviluppatori frontend oggi e, magari, anche domani.
+    Con questo talk viaggeremo verso le terre di Miyazaki e capiremo meglio questi temi"
+
 -
    speaker_id: giulia-laco
    title: "Font variabili? Sì grazie."
    keynote: false
    extract: >
-      A tre anni e mezzo dalla loro concezione, i font variabili sembrano essere un formato utilizzabile e proficuo per il web design.
-      Excursus su quello che un font variabile può fare per la tipografia del tuo sito web, per una ulteriore progettazione responsive, per la velocità di caricamento, per le animazioni. E uno sguardo su come sta evolvendo il mercato.
--
-   speaker_id: andrea-decarolis
-   title: "Make CSS great again"
-   keynote: false
-   extract: >
-      Ah, bei tempi andati quelli in cui c'erano novità in termini di naming convention, di preprocessori, di - udite udite - responsive web design. 
-      Eravamo agli albori del CSS, dovevamo capire come gestirlo. Anzi: come gestirlo per bene. 
-      Davanti a noi il futuro appariva roseo e pieno d'aspettative come solo a Tim Berners-Lee era capitato e poi... l'idillio si è spezzato. 
-      È arrivata l'esplosione dei framework JavaScript, tutto è diventato meno accattivante, il CSS si scrive dentro il JavaScript, tutto è un npm... insomma abbiamo perso quel guizzo originario che ci rendeva speciali.
-      Oggi c'è ancora spazio per divertirsi? C’è ancora un po’ di magia e stupore nei nostri amati CSS?
-      In questo talk proveremo a passare in rassegna le pratiche migliori in tema di CSS esplorando nuove features che, sono certo, faranno ancora una volta ardere la fiamma del CSS-aro che è in tutti noi.
+      "A tre anni e mezzo dalla loro concezione, i font variabili sembrano essere un formato utilizzabile e proficuo per il web design.
+      Excursus su quello che un font variabile può fare per la tipografia del tuo sito web, per una ulteriore progettazione responsive, per la velocità di caricamento, per le animazioni. E uno sguardo su come sta evolvendo il mercato."
+
 -
    speaker_id: antonio-matera
    title: "Designers e developers: No more tears."
    keynote: false
    extract: >
-      I Design Systems sono un argomento caldo nel mondo del design, ma non andremo molto lontani se i designer non sono allineati con i dev, perché gli sviluppatori sono gli ultimi a lasciare le impronte su un sito web o su un qualsiasi altro prodotto digitale prima che questo sia rilasciato.
+      "I Design Systems sono un argomento caldo nel mondo del design, ma non andremo molto lontani se i designer non sono allineati con i dev, perché gli sviluppatori sono gli ultimi a lasciare le impronte su un sito web o su un qualsiasi altro prodotto digitale prima che questo sia rilasciato.
       È tempo di migliorare la consapevolezza sul ruolo del designer in modo da guardare oltre gli schemi.
-      In questo intervento analizzeremo alcuni punti chiave del processo di lavoro e alcuni suggerimenti su cosa possiamo fare meglio per colmare il gap tra design e sviluppo.
+      In questo intervento analizzeremo alcuni punti chiave del processo di lavoro e alcuni suggerimenti su cosa possiamo fare meglio per colmare il gap tra design e sviluppo."
+
+-
+   speaker_id: giulia-talamonti
+   title: "L'uno contro l'altro? Praticamente amici! - CSS in JS"
+   keynote: false
+   extract: >
+      "Al tempo degli applicativi web, dei framework che spadroneggiano su un'industria in tumulto, gli sviluppatori web invocano il soccorso di un eroe per riconquistare la libertà. 
+      Finalmente arriva CSS in JS l’invincibile...
+      No ok sto esagerando! Ricomincio! Uno contro l’altro ma praticamente amici, un viaggio su come l’uno (CSS) è diventato il migliore amico dell’altro (JS)."
+
+-
+   speaker_id: andrea-verlicchi
+   title: "Advanced web performance best practices"
+   keynote: false
+   extract: >
+      "Se pensate che la velocità dei siti internet si basi solo sulla velocità del back-end, questo talk vi farà cambiare idea. 
+      In questo talk vedremo una panoramica di tutti gli interventi che potete fare nel frontend per ottimizzare le metriche di performance (FCP, TTI, CLS) ed i punteggi Lighthouse e SpeedIndex."
+-
+   speaker_id: giacomo-zinetti
+   title: "Web Components: illusione o realtà?"
+   keynote: false
+   extract: >
+    "Il mondo del frontend si è indirizzato a folle velocità verso lo sviluppo di componenti atomici grazie allo standard dei Web Component e librerie/framework come React, Angular, Vue, ecc. 
+    Praticamente ora possiamo, analogamente ai nostri colleghi del backend, scegliere per la nostra UI se adottare un'architettura monolitica o a microservizi. 
+    Ma in tutto questo non staremo lasciandoci alle spalle qualcosa di buono? 
+    In questa mezz'oretta proveremo ad analizzare la storia che ci ha portato ad oggi, cercando di valutare se possiamo recuperare qualcosa da mettere nel nostro bagaglio per arricchire e migliorare la nostra vita da sviluppatori frontend oggi e, magari, anche domani."
+      
