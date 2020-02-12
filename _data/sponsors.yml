@@ -74,3 +74,9 @@ bronze:
     - 2 biglietti scontati del 10%
   max: 32
   list:
+    -
+      url: https://codiceplastico.com/it/
+      image: codiceplastico.svg    
+    -
+      url: http://stickermule.com/supports/grusp20-sponsorship
+      image: stickermule.svg  
