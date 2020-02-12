@@ -4,6 +4,15 @@ call_for_paper_url: https://goo.gl/forms/jOzpXYpAZCsE4oH82
 call_for_paper: false
 show_speakers: true
 list:
+
+  -
+    id: massimo-artizzu
+    description: >
+      Sviluppatore web presso Antreem, appassionato di sviluppo, scienza e tecnica. Curioso della piattaforma web. Prova sempre a reinventare una ruota migliore.
+    image: massimo-artizzu.jpg
+    first_name: Massimo	
+    last_name: 	Artizzu
+    twitter: MaxArt2501
   -
     id: andrea-decarolis
     description: >
@@ -78,10 +87,3 @@ list:
     first_name: Giacomo
     last_name: 	Zinetti
     twitter: gcmznt      
-  -
-    id: emmaboshi
-    descrizione: "Sono Emmaboshi un grafico post-maniera di Bologna. Da vent’anni progetto identità visive originali (tipo loghi, immagini coordinate ecc) e amo questo cosiddetto webbe. Sono quello che di solito ti manda il file di Sketch."
-    image: emmaboshi.jpg
-    first_name: Emanuele
-    last_name: Centola
-    twitter: emmaboshi
