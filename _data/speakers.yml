@@ -5,12 +5,27 @@ call_for_paper: false
 show_speakers: true
 list:
   -
+    id: andrea-decarolis
+    description: >
+      Sono uno dei soci di Modo, un'agenzia specializzata in front end e ci piace dare il nostro supporto alle community attive nel settore. Aiuto nell'organizzazione del Bologna front end, un meetup sul front end dove puoi entrare solo se fai fatica a pronunciare la Z.
+    image: andrea-decarolis.jpg
+    first_name: Andrea	
+    last_name: 	De Carolis
+    twitter: decarola
+  -
     id: antonio-dellava
     description: Frontend developer presso Flowing. Ha un background da interaction designer, appassionato dei principi agili, è anche uno degli organizzatori del MUG (marca user group). Nel tempo libero lo puoi sempre trovare in sella ad una bici.
     image: antonio-dellava.jpg
     first_name: Antonio
     last_name: 	Dell'Ava
     twitter: creativecaos
+  -
+    id: andrea-gadaldi
+    description: Sono un designer e lavoro in CodicePlastico. Mi occupo di interfacce, usabilità e sviluppo front-end: credo che la comunicazione, la condivisione di esperienze e un contesto ludico siano il modo migliore per progettare prodotti con e per le persone.
+    image: andrea-gadaldi.jpg
+    first_name: Andrea
+    last_name: 	Gadaldi
+    twitter: mrbeastcorp
   -
     id: davide-dipumpo
     description: Mi occupo di progettare e sviluppare siti e web application. Ho competenze trasversali, dovute a una formazione che ha sempre spaziato tra l’informatica e il design. Da ottobre 2015 sono uno degli organizzatori del gruppo Milano Front End meetup, preparando gli eventi e tenendo talk. Vengo da una famiglia di insegnanti e non sono riuscito a scampare del tutto a questa maledizione, quindi spesso insegno in scuole di specializzazione.
@@ -26,27 +41,12 @@ list:
     last_name: 	Guidotto
     twitter: j8matteo
   -
-    id: giacomo-zinetti
-    description: Hello World! Piacere di conoscerti, sono Giko, un frontendista dalla provincia di Como appassionato di frontend in ogni suo aspetto, adoro le performance, mi piace comporre CSS, strutturare JavaScript e rendere l'HTML accessibile. Sono anche cofondatore degli user group Milano Frontend e Como CaFE.
-    image: giacomo-zinetti.jpg
-    first_name: Giacomo
-    last_name: 	Zinetti
-    twitter: gcmznt  
-  -
     id: giulia-laco
-    description: 
+    description: Progetto siti web esperienze utente dal secolo scorso con forte attenzione al codice, agli standard, al progressive enhancement e all’impatto sulla SEO. Mi piace far contaminare varie discipline. Da qualche anno stimolo i clienti e le agenzie a sfruttare le opportunità che la tipografia web ora offre. Sono full stack UX designer per WebMatter.it e consulente per la tipografia digitale.
     image: giulia-laco.jpg
     first_name: Giulia
     last_name: 	Laco
     twitter: webmatter_it  
-  -
-    id: andrea-decarolis
-    description: >
-      "Sono uno dei soci di Modo, un'agenzia specializzata in front end e ci piace dare il nostro supporto alle community attive nel settore. Aiuto nell'organizzazione del Bologna front end, un meetup sul front end dove puoi entrare solo se fai fatica a pronunciare la Z."
-    image: andrea-decarolis.jpg
-    first_name: Andrea	
-    last_name: 	De Carolis
-    twitter: decarola
   -
     id: antonio-matera
     description: > 
@@ -54,4 +54,27 @@ list:
     image: antonio-matera.jpg
     first_name: Antonio	
     last_name: 	Matera
-    twitter: antonio_matera_    
+    twitter: antonio_matera_  
+  -
+    id: giulia-talamonti
+    description: > 
+      Frontend developer in Credimi, appassionata di sviluppo web, design, arte e tutto ciò che orbita attorno. Sempre alla ricerca di nuove avventure.
+    image: giulia-talamonti.jpg
+    first_name: Giulia	
+    last_name: Talamonti
+    twitter: giucot_   
+  -
+    id: andrea-verlicchi
+    description: > 
+      Front-end architect a YOOX NET-A-PORTER GROUP, crede fermamente che la velocità dei siti web sia fondamentale nell'esperienza utente. Speaker occasionale a varie conferenze di front-end, scrive di web design su Smashing Magazine, Medium, YNAP Tech ed il suo blog andreaverlicchi.eu 
+    image: andrea-verlicchi.jpg
+    first_name: Andrea
+    last_name: Verlicchi
+    twitter: verlok      
+  -
+    id: giacomo-zinetti
+    description: Hello World! Piacere di conoscerti, sono Giko, un frontendista dalla provincia di Como appassionato di frontend in ogni suo aspetto, adoro le performance, mi piace comporre CSS, strutturare JavaScript e rendere l'HTML accessibile. Sono anche cofondatore degli user group Milano Frontend e Como CaFE.
+    image: giacomo-zinetti.jpg
+    first_name: Giacomo
+    last_name: 	Zinetti
+    twitter: gcmznt      
