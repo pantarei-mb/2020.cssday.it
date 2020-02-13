@@ -36,7 +36,8 @@ platinum:
   list:
     -
       url: http://www.flowing.it
-      image: flowing.svg
+      image: flowing.svg    
+      
 
 gold:
   price: € 1,500
@@ -65,6 +66,9 @@ silver:
     - 3 biglietti scontati del 10%
   max: 16
   list:
+    -
+      url: https://www.credimi.com
+      image: credimi.svg
 
 bronze:
   price: € 500
@@ -77,6 +81,9 @@ bronze:
     -
       url: https://codiceplastico.com/it/
       image: codiceplastico.svg    
+    -
+      url: http://www.ynap.com
+      image: ynap.svg        
     -
       url: http://stickermule.com/supports/grusp20-sponsorship
       image: stickermule.svg  
