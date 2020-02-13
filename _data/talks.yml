@@ -1,4 +1,13 @@
 -
+   speaker_id: massimo-artizzu
+   title: "Accessibilità... con stile"
+   keynote: false
+   extract: >
+      "Il Web si sta finalmente rendendo più accessibile per persone con diversi tipi di disabilità. Ma è un viaggio ancora lungo, e molte risposte sono difficili da trovare. 
+      Nello specifico: come può il nostro CSS influenzare l'accessibilità delle nostre pagine ed applicazioni? Come dobbiamo comportarci con la responsività? 
+      I nostri stili si devono appoggiare agli attributi ARIA del DOM, o dobbiamo fornire una presentazioni alternativa per i nostri contenuti?
+      Sono domande importanti in un mondo che è sempre più consapevole del fatto che avere un qualche tipo di impedimento fisico è molto più "normale" di quanto si credesse."
+-
    speaker_id: andrea-decarolis
    title: "Make CSS great again"
    keynote: false
