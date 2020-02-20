@@ -39,9 +39,7 @@ platinum:
       image: antreem.svg     
     -
       url: http://www.flowing.it
-      image: flowing.svg   
-      
-      
+      image: flowing.svg
 
 gold:
   price: € 1,500
