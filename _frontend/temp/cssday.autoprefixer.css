@@ -820,7 +820,6 @@ body {
   border: 0;
   transition: color 0.25s ease-out;
   -webkit-user-select: none;
-     -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
 }
@@ -875,7 +874,6 @@ body {
   position: relative;
   transition: color 0.25s ease-out;
   -webkit-user-select: none;
-     -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
 }
@@ -1851,7 +1849,6 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   -webkit-user-select: none;
-     -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
 }
@@ -1920,22 +1917,12 @@ body {
   outline: 0;
 }
 
-.newsletter__email:focus::-webkit-input-placeholder {
-  color: #33e4e4;
-}
-
 .newsletter__email:focus:-ms-input-placeholder {
   color: #33e4e4;
 }
 
 .newsletter__email:focus::placeholder {
   color: #33e4e4;
-}
-
-.newsletter__email::-webkit-input-placeholder {
-  color: white;
-  text-transform: capitalize;
-  transition: color 0.25s ease-in-out;
 }
 
 .newsletter__email:-ms-input-placeholder {
@@ -1948,11 +1935,6 @@ body {
   color: white;
   text-transform: capitalize;
   transition: color 0.25s ease-in-out;
-}
-
-.newsletter__email--invalid::-webkit-input-placeholder {
-  color: #00dddd;
-  text-transform: none;
 }
 
 .newsletter__email--invalid:-ms-input-placeholder {
@@ -1972,7 +1954,6 @@ body {
   text-transform: uppercase;
   margin-top: 60px;
   -webkit-user-select: none;
-     -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
 }
@@ -2474,7 +2455,6 @@ body {
   text-align: center;
   transition: opacity 0.25s ease-in-out;
   -webkit-user-select: none;
-     -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
 }
@@ -4531,7 +4511,6 @@ body {
   .talks-intro__title {
     font-size: 310px;
     -webkit-user-select: none;
-       -moz-user-select: none;
         -ms-user-select: none;
             user-select: none;
   }
@@ -4773,4 +4752,62 @@ body {
 
 .workshop-teacher__social {
   margin-top: 5px;
+}
+
+.alert {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: -50px;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 100;
+  text-align: center;
+}
+
+.alert a {
+  color: #00dddd;
+}
+
+@media (min-width: 480px) {
+  .alert {
+    top: -20px;
+  }
+}
+
+.alert__container {
+  background-color: #EEE;
+  border: 3px solid #cd201f;
+  padding: 20px;
+  margin: 20px;
+  opacity: 1;
+  z-index: 101;
+}
+
+@media (min-width: 480px) {
+  .alert__container {
+    margin: 200px 20px 20px;
+  }
+}
+
+.alert__container p {
+  margin-top: 20px;
+}
+
+.alert__title {
+  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+@media (min-width: 480px) {
+  .alert__title {
+    font-size: 38px;
+  }
+}
+
+.alert__text {
+  text-align: left;
+  margin-bottom: 30px;
 }

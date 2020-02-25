@@ -4748,4 +4748,62 @@ body {
   margin-top: 5px;
 }
 
+.alert {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: -50px;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 100;
+  text-align: center;
+}
+
+.alert a {
+  color: #00dddd;
+}
+
+@media (min-width: 480px) {
+  .alert {
+    top: -20px;
+  }
+}
+
+.alert__container {
+  background-color: #EEE;
+  border: 3px solid #cd201f;
+  padding: 20px;
+  margin: 20px;
+  opacity: 1;
+  z-index: 101;
+}
+
+@media (min-width: 480px) {
+  .alert__container {
+    margin: 200px 20px 20px;
+  }
+}
+
+.alert__container p {
+  margin-top: 20px;
+}
+
+.alert__title {
+  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+@media (min-width: 480px) {
+  .alert__title {
+    font-size: 38px;
+  }
+}
+
+.alert__text {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
 /*# sourceMappingURL=cssday.css.map */
