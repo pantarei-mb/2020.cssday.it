@@ -28,13 +28,13 @@ list:
     first_name: Antonio
     last_name: 	Dell'Ava
     twitter: creativecaos
-  -
-    id: andrea-gadaldi
-    description: "Sono un designer e lavoro in CodicePlastico. Mi occupo di interfacce, usabilità e sviluppo front-end: credo che la comunicazione, la condivisione di esperienze e un contesto ludico siano il modo migliore per progettare prodotti con e per le persone."
-    image: andrea-gadaldi.jpg
-    first_name: Andrea
-    last_name: 	Gadaldi
-    twitter: mrbeastcorp
+#  -
+#    id: andrea-gadaldi
+#    description: "Sono un designer e lavoro in CodicePlastico. Mi occupo di interfacce, usabilità e sviluppo front-end: credo che la comunicazione, la condivisione di esperienze e un contesto ludico siano il modo migliore per progettare prodotti con e per le persone."
+#    image: andrea-gadaldi.jpg
+#    first_name: Andrea
+#    last_name: 	Gadaldi
+#    twitter: mrbeastcorp
   -
     id: davide-dipumpo
     description: Mi occupo di progettare e sviluppare siti e web application. Ho competenze trasversali, dovute a una formazione che ha sempre spaziato tra l’informatica e il design. Da ottobre 2015 sono uno degli organizzatori del gruppo Milano Front End meetup, preparando gli eventi e tenendo talk. Vengo da una famiglia di insegnanti e non sono riuscito a scampare del tutto a questa maledizione, quindi spesso insegno in scuole di specializzazione.
@@ -56,14 +56,14 @@ list:
     first_name: Giulia
     last_name: 	Laco
     twitter: webmatter_it  
-  -
-    id: antonio-matera
-    description: > 
-      Sono frontend developer in Tangible e mi propongo come speaker perché penso che il tema di cui vorrei parlare, su cui sto studiando e appassionando sia fondamentale nel lavoro di tutti giorni come designer e sviluppatori. Abbiamo entrambi grandi capacità ma spesso non si innesca la scintilla che abilita la cosa più importante tra le due discipline: la comunicazione.
-    image: antonio-matera.jpg
-    first_name: Antonio	
-    last_name: 	Matera
-    twitter: antonio_matera_  
+#  -
+#    id: antonio-matera
+#    description: > 
+#      Sono frontend developer in Tangible e mi propongo come speaker perché penso che il tema di cui vorrei parlare, su cui sto studiando e appassionando sia fondamentale nel lavoro di tutti giorni come designer e sviluppatori. Abbiamo entrambi grandi capacità ma spesso non si innesca la scintilla che abilita la cosa più importante tra le due discipline: la comunicazione.
+#    image: antonio-matera.jpg
+#    first_name: Antonio	
+#    last_name: 	Matera
+#    twitter: antonio_matera_  
   -
     id: giulia-talamonti
     description: > 
@@ -72,14 +72,14 @@ list:
     first_name: Giulia	
     last_name: Talamonti
     twitter: giucot_   
-  -
-    id: andrea-verlicchi
-    description: > 
-      Front-end architect a YOOX NET-A-PORTER GROUP, crede fermamente che la velocità dei siti web sia fondamentale nell'esperienza utente. Speaker occasionale a varie conferenze di front-end, scrive di web design su Smashing Magazine, Medium, YNAP Tech ed il suo blog andreaverlicchi.eu 
-    image: andrea-verlicchi.jpg
-    first_name: Andrea
-    last_name: Verlicchi
-    twitter: verlok      
+#  -
+#    id: andrea-verlicchi
+#    description: > 
+#      Front-end architect a YOOX NET-A-PORTER GROUP, crede fermamente che la velocità dei siti web sia fondamentale nell'esperienza utente. Speaker occasionale a varie conferenze di front-end, scrive di web design su Smashing Magazine, Medium, YNAP Tech ed il suo blog andreaverlicchi.eu 
+#    image: andrea-verlicchi.jpg
+#    first_name: Andrea
+#    last_name: Verlicchi
+#    twitter: verlok      
   -
     id: giacomo-zinetti
     description: Hello World! Piacere di conoscerti, sono Giko, un frontendista dalla provincia di Como appassionato di frontend in ogni suo aspetto, adoro le performance, mi piace comporre CSS, strutturare JavaScript e rendere l'HTML accessibile. Sono anche cofondatore degli user group Milano Frontend e Como CaFE.
