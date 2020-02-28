@@ -6,7 +6,7 @@ where_when: Faenza, 18-19 Giugno 2020
 year: 2020
 since: 2015
 show_talks: true
-show_schedule: true
+show_schedule: false
 show_workshop: true
 googletagmanager: UA-111695734-1
 scholarship_available: true
