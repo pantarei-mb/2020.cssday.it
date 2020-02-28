@@ -28,12 +28,12 @@
     Il talk racconta di come ho affrontato questa sfida passando dal naturale sconforto di dover far fronte a un contesto che sentivo come "vecchio", fino ad arrivare a soluzioni efficaci ed innovative che hanno risposto al bisogno degli utenti. 
     In particolare illustrerò un caso studio di un vero e proprio report manager dove l'utente è in grado di personalizzare i propri template in funzione delle proprie esigenze con tecnologie e soluzioni replicabili da tutti."
 
--
-   speaker_id: andrea-gadaldi
-   title: "Il dottor Strangepixel - Ovvero: come ho imparato a non preoccuparmi e ad amare gli SVG"
-   keynote: false
-   extract: >
-    "Una piccola guida pratica agli SVG tra preparazione e ottimizzazione, opzioni di implementazione, animazione, manipolazione CSS, JS e spriting"
+#-
+#   speaker_id: andrea-gadaldi
+#   title: "Il dottor Strangepixel - Ovvero: come ho imparato a non preoccuparmi e ad amare gli SVG"
+#   keynote: false
+#   extract: >
+#    "Una piccola guida pratica agli SVG tra preparazione e ottimizzazione, opzioni di implementazione, animazione, manipolazione CSS, JS e spriting"
 
 -
    speaker_id: davide-dipumpo
@@ -61,14 +61,14 @@
       "A tre anni e mezzo dalla loro concezione, i font variabili sembrano essere un formato utilizzabile e proficuo per il web design.
       Excursus su quello che un font variabile può fare per la tipografia del tuo sito web, per una ulteriore progettazione responsive, per la velocità di caricamento, per le animazioni. E uno sguardo su come sta evolvendo il mercato."
 
--
-   speaker_id: antonio-matera
-   title: "Designers e developers: No more tears."
-   keynote: false
-   extract: >
-      "I Design Systems sono un argomento caldo nel mondo del design, ma non andremo molto lontani se i designer non sono allineati con i dev, perché gli sviluppatori sono gli ultimi a lasciare le impronte su un sito web o su un qualsiasi altro prodotto digitale prima che questo sia rilasciato.
-      È tempo di migliorare la consapevolezza sul ruolo del designer in modo da guardare oltre gli schemi.
-      In questo intervento analizzeremo alcuni punti chiave del processo di lavoro e alcuni suggerimenti su cosa possiamo fare meglio per colmare il gap tra design e sviluppo."
+# -
+#   speaker_id: antonio-matera
+#   title: "Designers e developers: No more tears."
+#   keynote: false
+#   extract: >
+#      "I Design Systems sono un argomento caldo nel mondo del design, ma non andremo molto lontani se i designer non sono allineati con i dev, perché gli sviluppatori sono gli ultimi a lasciare le impronte su un sito web o su un qualsiasi altro prodotto digitale prima che questo sia rilasciato.
+#      È tempo di migliorare la consapevolezza sul ruolo del designer in modo da guardare oltre gli schemi.
+#      In questo intervento analizzeremo alcuni punti chiave del processo di lavoro e alcuni suggerimenti su cosa possiamo fare meglio per colmare il gap tra design e sviluppo."
 
 -
    speaker_id: giulia-talamonti
@@ -79,13 +79,13 @@
       Finalmente arriva CSS in JS l’invincibile...
       No ok sto esagerando! Ricomincio! Uno contro l’altro ma praticamente amici, un viaggio su come l’uno (CSS) è diventato il migliore amico dell’altro (JS)."
 
--
-   speaker_id: andrea-verlicchi
-   title: "Advanced web performance best practices"
-   keynote: false
-   extract: >
-      "Se pensate che la velocità dei siti internet si basi solo sulla velocità del back-end, questo talk vi farà cambiare idea. 
-      In questo talk vedremo una panoramica di tutti gli interventi che potete fare nel frontend per ottimizzare le metriche di performance (FCP, TTI, CLS) ed i punteggi Lighthouse e SpeedIndex."
+#-
+#   speaker_id: andrea-verlicchi
+#   title: "Advanced web performance best practices"
+#   keynote: false
+#   extract: >
+#      "Se pensate che la velocità dei siti internet si basi solo sulla velocità del back-end, questo talk vi farà cambiare idea. 
+#      In questo talk vedremo una panoramica di tutti gli interventi che potete fare nel frontend per ottimizzare le metriche di performance (FCP, TTI, CLS) ed i punteggi Lighthouse e SpeedIndex."
 -
    speaker_id: giacomo-zinetti
    title: "Web Components: illusione o realtà?"
