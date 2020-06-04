@@ -35,9 +35,6 @@ platinum:
   max: 2
   list:
     -
-      url: https://antreem.com/it/
-      image: antreem.svg     
-    -
       url: http://www.flowing.it
       image: flowing.svg
 
@@ -54,8 +51,12 @@ gold:
   max: 8
   list:
     -
+      url: https://antreem.com/it/
+      image: antreem.svg    
+    -
       url: http://www.jsday.it
       image: jsday.svg
+      
 
 silver:
   price: € 750
